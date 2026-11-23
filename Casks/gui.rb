@@ -1,6 +1,6 @@
 cask "gui" do
-  version "0.1.0-alpha.28"
-  sha256 "4d65c7f1f80dde2f69f2ccee15a79cdcb6b14b295ff9f92a0f1762badc0f5489"
+  version "0.1.0-alpha.29"
+  sha256 "423b5f455b90d6fa2d8e6a7997545309cef13da93245392536e9a4770fb3b4a4"
 
   url "https://usegui.com/releases/Gui-#{version}-arm64.dmg"
   name "Gui"
